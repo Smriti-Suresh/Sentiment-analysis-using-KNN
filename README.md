@@ -1,3 +1,5 @@
+# please download this pre-trained 300-dimensional word2vec representations and install and import gensim 
+https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?pli=1&resourcekey=0-wjGZdNAUop6WykTtMip30g
 # Sentiment-analysis-using-KNN output snapshots
 Word2vec output snapshot[maximum accuracy rate]:
 ![image](https://github.com/Smriti-Suresh/Sentiment-analysis-using-KNN/assets/130530138/289dd29f-d27c-41a3-abae-54890431c15b)
